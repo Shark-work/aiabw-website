@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "title": "AI Agent 工具箱",
+    "description": "发现最好用的 AI 与 Agent 工具"
+  },
+  "layout": {
+    "siteName": "AI Agent 导航站",
+    "copyright": "© {year} aiabw.com · {brand} · 保留所有权利",
+    "footerNote": "数据仅供参考，请以各产品官网为准"
+  },
+  "nav": {
+    "home": "首页",
+    "tools": "工具",
+    "languageGroup": "界面语言",
+    "langZh": "中文",
+    "langEn": "English"
+  },
+  "home": {
+    "title": "AI Agent 导航站",
+    "subtitle": "发现改变世界的 AI 与 Agent 工具，开启你的财富之旅",
+    "cta": "开始探索 →",
+    "popularTitle": "热门工具"
+  },
+  "tools": {
+    "title": "🛠️ AI Agent 工具箱",
+    "subtitle": "发现最好用的 AI 与 Agent 工具，助力你的财富之路",
+    "metaTitle": "工具库 | AI Agent 工具箱",
+    "metaDescription": "按分类浏览、搜索并筛选 AI 与 Agent 相关工具，支持排序与收藏。",
+    "badgeAgent": "Agent",
+    "cta": "去使用 →",
+    "categories": {
+      "dev": "开发工具",
+      "siteBuilder": "AI 建站",
+      "agent": "Agent 工具"
+    },
+    "tags": {
+      "coding": "编程",
+      "free": "免费",
+      "siteBuilder": "建站",
+      "productivity": "效率",
+      "openSource": "开源",
+      "automation": "自动化"
+    },
+    "items": {
+      "cursor": {
+        "description": "与 AI 配对编程的代码编辑器，你正在用的就是它"
+      },
+      "manus": {
+        "description": "一句话生成网站，AI 建站助手"
+      },
+      "openclaw": {
+        "description": "开源 AI Agent，7×24 小时自动化执行任务"
+      }
+    }
+  },
+  "toolsUi": {
+    "searchPlaceholder": "搜索工具名称或描述…",
+    "allCategories": "全部分类",
+    "sortLabel": "排序",
+    "sortName": "按名称",
+    "sortViews": "按浏览量",
+    "sortStars": "按收藏数",
+    "prev": "上一页",
+    "next": "下一页",
+    "pageOf": "第 {current} / {total} 页",
+    "paginationNav": "分页",
+    "noResults": "没有匹配的工具，试试其它关键词或分类。",
+    "resultCount": "共 {count} 个工具",
+    "initializing": "正在加载本地偏好…",
+    "detail": "详情",
+    "visit": "访问官网",
+    "views": "浏览",
+    "stars": "收藏",
+    "favorite": "收藏",
+    "favorited": "已收藏",
+    "backToTools": "返回工具库",
+    "category": "分类",
+    "createdAt": "收录日期",
+    "updatedAt": "更新日期",
+    "loadError": "无法加载工具数据，请检查 Supabase 环境变量与网络。"
+  },
+  "kofi": {
+    "donateButtonText": "请我喝咖啡"
+  },
+  "errors": {
+    "title": "出错了",
+    "retry": "重试"
+  },
+  "loading": {
+    "message": "加载中…"
+  }
+}

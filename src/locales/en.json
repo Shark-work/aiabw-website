@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "title": "AI Agent Toolbox",
+    "description": "Discover the best AI and Agent tools"
+  },
+  "layout": {
+    "siteName": "AI Agent Hub",
+    "copyright": "© {year} aiabw.com · {brand}. All rights reserved.",
+    "footerNote": "For reference only; verify on each product’s official site."
+  },
+  "nav": {
+    "home": "Home",
+    "tools": "Tools",
+    "languageGroup": "Language",
+    "langZh": "中文",
+    "langEn": "English"
+  },
+  "home": {
+    "title": "AI Agent Hub",
+    "subtitle": "Discover AI and Agent tools that move the needle—and your next opportunity.",
+    "cta": "Start exploring →",
+    "popularTitle": "Popular tools"
+  },
+  "tools": {
+    "title": "🛠️ AI Agent Toolbox",
+    "subtitle": "Hand-picked AI and Agent tools to boost your workflow and growth.",
+    "metaTitle": "Directory | AI Agent Toolbox",
+    "metaDescription": "Browse, search, and filter AI & Agent tools with sorting and favorites.",
+    "badgeAgent": "Agent",
+    "cta": "Open tool →",
+    "categories": {
+      "dev": "Developer tools",
+      "siteBuilder": "AI site builders",
+      "agent": "Agent platforms"
+    },
+    "tags": {
+      "coding": "Coding",
+      "free": "Free",
+      "siteBuilder": "Websites",
+      "productivity": "Productivity",
+      "openSource": "Open source",
+      "automation": "Automation"
+    },
+    "items": {
+      "cursor": {
+        "description": "The AI-native code editor for pair programming—you might be using it right now."
+      },
+      "manus": {
+        "description": "Describe what you need and ship a site with an AI building assistant."
+      },
+      "openclaw": {
+        "description": "Open-source AI agent that runs tasks around the clock."
+      }
+    }
+  },
+  "toolsUi": {
+    "searchPlaceholder": "Search by name or description…",
+    "allCategories": "All categories",
+    "sortLabel": "Sort",
+    "sortName": "Name",
+    "sortViews": "Views",
+    "sortStars": "Stars",
+    "prev": "Previous",
+    "next": "Next",
+    "pageOf": "Page {current} of {total}",
+    "paginationNav": "Pagination",
+    "noResults": "No tools match your filters. Try another keyword or category.",
+    "resultCount": "{count, plural, one {# tool} other {# tools}}",
+    "initializing": "Loading preferences…",
+    "detail": "Details",
+    "visit": "Visit site",
+    "views": "Views",
+    "stars": "Stars",
+    "favorite": "Save",
+    "favorited": "Saved",
+    "backToTools": "Back to directory",
+    "category": "Category",
+    "createdAt": "Added",
+    "updatedAt": "Updated",
+    "loadError": "Could not load tools. Check Supabase environment variables and network."
+  },
+  "kofi": {
+    "donateButtonText": "Support me"
+  },
+  "errors": {
+    "title": "Something went wrong",
+    "retry": "Try again"
+  },
+  "loading": {
+    "message": "Loading…"
+  }
+}
